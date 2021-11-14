@@ -1,0 +1,4 @@
+struct armor_msg
+{
+    double position[3];
+}
